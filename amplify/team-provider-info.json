@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyappsabrine-dev-b9531",
       "StackId": "arn:aws:cloudformation:us-west-2:519918073452:stack/amplify-amplifyappsabrine-dev-b9531/f525e210-70ef-11ef-825c-02fba8f28d3b",
       "AmplifyAppId": "d3dz0vrpnk4wsv"
+    },
+    "categories": {
+      "auth": {
+        "amplifyappsabrinedf949183": {}
+      }
     }
   }
 }
